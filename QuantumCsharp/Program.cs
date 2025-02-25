@@ -1,8 +1,8 @@
-﻿using System;
-using Microsoft.Quantum.Simulation.Core;
+﻿
 using Microsoft.Quantum.Simulation.Simulators;
 using QuantumQsharp; // Make sure this matches the Q# namespace
 
+namespace QuantumCsharp;
 class Program
 {
     static void Main(string[] args)
